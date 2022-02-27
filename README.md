@@ -3,6 +3,7 @@
 - Our goal is to provide an analysis and recommendations that will increase the company's bottom line. 
 
 The analysis provided was based upon the diabetic dataset that included a sample size of 101,766 patients from 130-US hospitals for the years 1999-2008. 
+https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008
 
 To review the changes of the cleaned data, please click the link here https://docs.google.com/spreadsheets/d/1NKec4a0BLHLxkYOaVspJCRKB40_LgMACsl8pw7YRrHg/edit#gid=2119277218
 
