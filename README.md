@@ -8,3 +8,6 @@ To review the changes of the cleaned data, please click the link here https://do
 
 
 Final presentation and recommendations can be viewed at https://public.tableau.com/views/Hackaton_Presentation_16459837524180/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+Analysis was done by DataIntel: Tenbite, Yuping, Juan, Belinda & myself.
